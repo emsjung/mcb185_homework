@@ -37,6 +37,8 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Practiced unit 0 with a classmate after class
 	+ Helped a classmate 
 	+ Participated in discussion 
+	+ I met Justin on Thursday 
+	
 - Week 3
 - Week 4
 - Week 5
