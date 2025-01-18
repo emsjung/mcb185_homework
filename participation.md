@@ -38,7 +38,8 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Helped a classmate 
 	+ Participated in discussion 
 	+ I met Justin on Thursday 
-	+ Attended class Thursday  
+	+ Attended class Thursday 
+	+ Finished Unit 0  
 - Week 3
 - Week 4
 - Week 5
