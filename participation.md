@@ -32,6 +32,8 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Thursday
 	+ Participated in discussion 
 	+ Set up github 
+	+ Asked a question 
+	+ Total 5 points 
 - Week 2
 	+ Attended class Tuesday 
 	+ Practiced unit 0 with a classmate after class
@@ -40,7 +42,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ I met Justin on Thursday 
 	+ Attended class Thursday 
 	+ Finished Unit 0  
+	+ Total 5 points 
 - Week 3
+	+ Worked on Unit 0 live assessment practice with Michelle 
+	+ Went over Unit 0 again with Michelle 
+	+ Worked on homework with Michelle 
+	+ Did not attend class due to sickness 
+	+ played around with spelling bee 
+	+ Total 4 points 
 - Week 4
 - Week 5
 - Week 6
