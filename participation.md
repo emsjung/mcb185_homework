@@ -51,7 +51,18 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ played around with spelling bee 
 	+ Total 4 points 
 - Week 4
+	+ Attended class Tuesday 
+	+ Started on Unit 1 
+	+ Asked questions to Michelle 
+	+ Worked on homework unit 1 homework1 
+	+ Helped out Michelle
+	+ Total 5 points 
 - Week 5
+	+ Attended class Tuesday
+	+ Finished Unit 1
+	+ Finished homework problems for unit 1 
+	+ Practiced Unit 1 to take live assessment 
+	+ Started on Unit 2
 - Week 6
 - Week 7
 - Week 8
