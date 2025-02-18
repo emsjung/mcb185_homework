@@ -64,6 +64,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Practiced Unit 1 to take live assessment 
 	+ Started on Unit 2
 - Week 6
+	+ Attended class Tuesday 
+	+ Worked on Unit 2
+	+ Worked on Practice problems 
+	+ Attended class Thursday
+	+ Worked on Homework 
 - Week 7
 - Week 8
 - Week 9
