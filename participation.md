@@ -72,18 +72,18 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Worked on Homework 
 	+ Total 5 points
 - Week 7
-	+ Attended class Tuesday 
 	+ Worked on Unit 3
 	+ Worked on Practice problems 
 	+ Attended class Thursday
 	+ Asked questions to Michelle and got help
+	+ Discussed(asked questions) with other friends outside of class
 	+ Total 5 points 
 - Week 8
-	+ Attended class Tuesday 
 	+ Worked on Unit 3
 	+ Worked on Practice problems 
 	+ Worked on Homework with Michelle 
 	+ Participated in discussion
+	+ Discussed(asked questions) with other friends outside of class
 	+ Total 5 points 
 - Week 9
 	+ Finished Unit 3
