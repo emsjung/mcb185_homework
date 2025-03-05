@@ -63,13 +63,30 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Finished homework problems for unit 1 
 	+ Practiced Unit 1 to take live assessment 
 	+ Started on Unit 2
+	+ Total 5 points
 - Week 6
 	+ Attended class Tuesday 
 	+ Worked on Unit 2
 	+ Worked on Practice problems 
 	+ Attended class Thursday
 	+ Worked on Homework 
+	+ Total 5 points
 - Week 7
+	+ Attended class Tuesday 
+	+ Worked on Unit 3
+	+ Worked on Practice problems 
+	+ Attended class Thursday
+	+ Asked questions to Michelle and got help
+	+ Total 5 points 
 - Week 8
+	+ Attended class Tuesday 
+	+ Worked on Unit 3
+	+ Worked on Practice problems 
+	+ Worked on Homework with Michelle 
+	+ Participated in discussion
+	+ Total 5 points 
 - Week 9
+	+ Finished Unit 3
+	+ Finished Homework 
+	+ Took unit 3 live assessment with Michelle 
 - Week 10
