@@ -86,7 +86,15 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Discussed(asked questions) with other friends outside of class
 	+ Total 5 points 
 - Week 9
-	+ Finished Unit 3
-	+ Finished Homework 
+	+ Finished Unit 3 on Tuesday
+	+ Finished Unit 3 Homework 
 	+ Took unit 3 live assessment with Michelle 
+	+ Started on Unit 4 with Michelle on Thursday
+	+ Asked questions to Michelle 
 - Week 10
+	+ Worked on Unit 4 with Michelle on Monday
+	+ Worked on Unit 4 and Homework with Michelle on Tuesday
+	+ Finished Unit 4 Homework with Michelle on Wednesday 
+	+ Take live assessment with Michele on Thursday
+	+ Started working on Unit 5 on Thursday
+	+ Total 5 points
